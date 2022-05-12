@@ -11,7 +11,7 @@ Magemanaged is a workplace employee and asset management platform available for 
 ## 🧙 Merlin
 <p align='center'>
 <a href='https://github.com/magemanaged/magemanaged-merlin-api'>
-    <img src='https://user-images.githubusercontent.com/40064946/166190941-f273d5d2-d0c0-450f-9893-f326cf9a6e2f.svg' align='center' width='35%' height='100'/>
+    <img src='https://user-images.githubusercontent.com/40064946/166190941-f273d5d2-d0c0-450f-9893-f326cf9a6e2f.svg' align='center' width='50%' height='100'/>
   </a>
   </p>
   
