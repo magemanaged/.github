@@ -15,7 +15,7 @@ Magemanaged is a workplace employee and asset management platform available for 
   </a>
   </p>
   
-Merlin is the NodeJS API backend for the magemanaged platform. Merlin acts as the intermediary between the platform and other software services. This API service is connected to the same Azure AD instance as the Single Page Application (SPA) portion of the platform. Merlin provides the same level of authorization and authentication as the web application by integrating with Azure AD to validate all identity access tokens received and ensuring that the request is within the allowed scope for the user.
+Merlin is the NodeJS RESTful API backend for the magemanaged platform. Merlin acts as the intermediary between the platform and other software services. This API service is connected to the same Azure AD instance as the Single Page Application (SPA) portion of the platform. Merlin provides the same level of authorization and authentication as the web application by integrating with Azure AD to validate all identity access tokens received and ensuring that the request is within the allowed scope for the user.
 
 ## ⛓️ Integrations
 Magemanaged allows for integration with multiple SaaS products.
